@@ -4,6 +4,9 @@ pipeline:
     pull: true
     settings:
       release_branch: main
+      forge_type: github
+      github_token:
+        from_secret: GITHUB_TOKEN
     when:
       event: push
       branch: main
