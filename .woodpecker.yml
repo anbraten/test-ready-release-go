@@ -1,0 +1,8 @@
+pipeline:
+  release:
+    image: anbraten/plugin-ready-release-go
+    settings:
+      release_branch: main
+    when:
+      event: push
+      branch: main
