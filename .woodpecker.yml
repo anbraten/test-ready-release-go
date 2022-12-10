@@ -1,6 +1,7 @@
 pipeline:
   release:
     image: anbraten/plugin-ready-release-go
+    pull: true
     settings:
       release_branch: main
     when:
