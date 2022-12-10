@@ -14,30 +14,12 @@ groups:
   - name: FEATURES
     labels:
       - feature
-  - name: SECURITY
-    labels:
-      - security
   - name: BUGFIXES
     labels:
       - bug
   - name: ENHANCEMENTS
     labels:
       - enhancement
-      - refactor
-      - ui
-  - name: TESTING
-    labels:
-      - tests
-  - name: TRANSLATION
-    labels:
-      - kind/translation
-  - name: BUILD
-    labels:
-      - kind/build
-      - kind/lint
-  - name: DOCUMENTATION
-    labels:
-      - documentation
   - name: MISC
     default: true
 
