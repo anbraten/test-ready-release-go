@@ -4,7 +4,6 @@ const defineConfig = (config: Partial<UserConfig>) => config;
 
 export default defineConfig({
   getNextVersion: async () => {
-    console.log("nextVersion", "1.0.0");
     return "1.0.0"; // TODO
   },
 
@@ -25,7 +24,7 @@ export default defineConfig({
 
     await exec(`rm changelog`);
 
-    console.log("lets go");
+    console.log("lets go 123");
   },
   afterPrepare: async () => true,
   beforeRelease: async () => true,
