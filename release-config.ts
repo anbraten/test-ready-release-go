@@ -11,6 +11,10 @@ export default defineConfig({
 
   getPullRequestBranch: ({ version }) => `next-release/${version}`,
 
+  getReleaseDescription: ({ exec }) => {
+    return exec("cat CHANGELOG.md").stdout;
+  },
+
   beforePrepare: async ({ exec, nextVersion }) => {
     await exec(
       "wget https://dl.gitea.io/changelog-tool/main/changelog-main-linux-amd64 -q -O changelog"
@@ -23,10 +27,5 @@ export default defineConfig({
     await exec(`./changelog contributors -m=${nextVersion} >> CHANGELOG.md`);
 
     await exec(`rm changelog`);
-
-    console.log("lets go 123");
   },
-  afterPrepare: async () => true,
-  beforeRelease: async () => true,
-  afterRelease: async () => true,
 });
