@@ -23,8 +23,6 @@ export default defineConfig({
     await exec(`./changelog contributors -m=${nextVersion} >> CHANGELOG.md`);
 
     await exec(`rm changelog`);
-
-    console.log("lets go 123");
   },
   afterPrepare: async () => true,
   beforeRelease: async () => true,
