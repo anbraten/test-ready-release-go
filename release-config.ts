@@ -3,29 +3,35 @@ import type { UserConfig } from "../src/utils/types";
 const defineConfig = (config: Partial<UserConfig>) => config;
 
 export default defineConfig({
-  getNextVersion: async () => {
+  async getNextVersion() {
     return "1.0.0"; // TODO
   },
 
-  getReleaseBranch: () => "main",
-
-  getPullRequestBranch: ({ version }) => `next-release/${version}`,
-
-  getReleaseDescription: ({ exec }) => {
-    return exec("cat CHANGELOG.md").stdout;
+  getReleaseBranch() {
+    return "main";
   },
 
-  beforePrepare: async ({ exec, nextVersion }) => {
+  getPullRequestBranch({ version }) {
+    return `next-release/${version}`;
+  },
+
+  async getReleaseDescription({ exec }) {
+    return Promise.resolve(exec("cat /app/CHANGELOG.md").stdout);
+  },
+
+  async beforePrepare({ exec, nextVersion }) {
     await exec(
-      "wget https://dl.gitea.io/changelog-tool/main/changelog-main-linux-amd64 -q -O changelog"
+      "wget https://dl.gitea.io/changelog-tool/main/changelog-main-linux-amd64 -q -O /app/changelog"
     );
 
-    await exec("chmod +x changelog");
+    await exec("chmod +x /app/changelog");
 
-    await exec(`./changelog generate -m=${nextVersion} > CHANGELOG.md`);
+    await exec("git checkout origin/main CHANGELOG.md");
 
-    await exec(`./changelog contributors -m=${nextVersion} >> CHANGELOG.md`);
+    await exec(
+      `/app/changelog generate -m=${nextVersion} >> /app/CHANGELOG.md`
+    );
 
-    await exec(`rm changelog`);
+    await exec("cat /app/CHANGELOG.md >> CHANGELOG.md");
   },
 });
