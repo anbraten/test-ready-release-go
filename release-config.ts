@@ -13,7 +13,7 @@ export default defineConfig({
 
   beforePrepare: async ({ exec, nextVersion }) => {
     await exec(
-      "wget https://dl.gitea.io/changelog-tool/main/changelog-main-linux-amd64 -O changelog"
+      "wget https://dl.gitea.io/changelog-tool/main/changelog-main-linux-amd64 -q -O changelog"
     );
 
     await exec("chmod +x changelog");
