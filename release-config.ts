@@ -16,7 +16,7 @@ export default defineConfig({
   },
 
   async getReleaseDescription({ exec }) {
-    return Promise.resolve(exec("cat /app/CHANGELOG.md").stdout);
+    return exec("cat /app/CHANGELOG.md").stdout;
   },
 
   async beforePrepare({ exec, nextVersion }) {
@@ -32,6 +32,7 @@ export default defineConfig({
       `/app/changelog generate -m=${nextVersion} >> /app/CHANGELOG.md`
     );
 
-    await exec("cat /app/CHANGELOG.md >> CHANGELOG.md");
+    await exec("git fetch origin main");
+    await exec("git merge origin/main");
   },
 });
