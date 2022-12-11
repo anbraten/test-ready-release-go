@@ -32,10 +32,8 @@ export default defineConfig({
       `/app/changelog generate -m=${nextVersion} >> /app/CHANGELOG.md`
     );
 
+    await exec('echo "" >> CHANGELOG.md'); // Add a new line
     await exec(`cat /app/CHANGELOG.md >> CHANGELOG.md`);
-
-    await exec("git fetch origin main");
-    await exec("git merge origin/main");
 
     await exec("git status");
   },
