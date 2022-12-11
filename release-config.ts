@@ -34,5 +34,7 @@ export default defineConfig({
 
     await exec("git fetch origin main");
     await exec("git merge origin/main");
+
+    await exec("git status");
   },
 });
