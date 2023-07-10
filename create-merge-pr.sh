@@ -11,7 +11,7 @@ git checkout -b test-$NOW
 
 git commit -am "Awesome $NAME"
 
-git push
+git push --set-upstream origin test-$NOW
 
 gh pr create --fill
 
