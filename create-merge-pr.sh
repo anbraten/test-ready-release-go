@@ -11,11 +11,12 @@ git checkout -b test-$NOW
 
 git commit -am "Awesome $NAME"
 
-git push
+git push --set-upstream origin test-$NOW
 
 gh pr create --fill
 
-gh pr merge
+gh pr merge --delete-branch --squash --auto
 
 git checkout main
+
 git pull
