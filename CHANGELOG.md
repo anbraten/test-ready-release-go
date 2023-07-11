@@ -9,6 +9,7 @@
 
 ### Misc
 
+- Awesome change: 2023-07-11-19-03-49 [[#55](https://github.com/anbraten/test-ready-release-go/pull/55)]
 - :tada: init ([7f38698](https://github.com/anbraten/test-ready-release-go/commit/7f386982f65e8c6edd9134f4ab959f4450b5dc51))
 - :shark: ([a8b86fd](https://github.com/anbraten/test-ready-release-go/commit/a8b86fd495f4aeb34000ff9d5a54c44b05f5dcff))
 - add new line ([d3ed41b](https://github.com/anbraten/test-ready-release-go/commit/d3ed41b10582e69af4561bcd9ed80ce4bceb5cea))
@@ -367,4 +368,4 @@
 * SECURITY
   * Fix agent auth (#1952) (#1953)
   * Return after error (#1875) (#1876)
-  * Update github.com/docker/distribution (#1750)
+  * Update github.com/docker/distribution (#1750
