@@ -368,4 +368,60 @@
 * SECURITY
   * Fix agent auth (#1952) (#1953)
   * Return after error (#1875) (#1876)
-  * Update github.com/docker/distribution (#1750
+  * Update github.com/docker/distribution (#175
+
+## [1.0.0](https://github.com/anbraten/test-ready-release-go/releases/tag/1.0.0) - 2023-07-11
+
+### 💥 Breaking changes
+
+- Awesome change: 2023-07-11-19-03-49 [[#55](https://github.com/anbraten/test-ready-release-go/pull/55)]
+
+### 🐛 Bug Fixes
+
+- Awesome change: 2023-07-11-19-05-35 [[#56](https://github.com/anbraten/test-ready-release-go/pull/56)]
+
+### 📈 Enhancement
+
+- Create README.md [[#3](https://github.com/anbraten/test-ready-release-go/pull/3)]
+- Create README.md [[#3](https://github.com/anbraten/test-ready-release-go/pull/3)]
+
+### Misc
+
+- :tada: init ([7f38698](https://github.com/anbraten/test-ready-release-go/commit/7f386982f65e8c6edd9134f4ab959f4450b5dc51))
+- :shark: ([a8b86fd](https://github.com/anbraten/test-ready-release-go/commit/a8b86fd495f4aeb34000ff9d5a54c44b05f5dcff))
+- add new line ([d3ed41b](https://github.com/anbraten/test-ready-release-go/commit/d3ed41b10582e69af4561bcd9ed80ce4bceb5cea))
+- add to changelog ([684bd26](https://github.com/anbraten/test-ready-release-go/commit/684bd26c3162457b570bd5dd91dc4779b188597d))
+- test ([4b5d82b](https://github.com/anbraten/test-ready-release-go/commit/4b5d82b110ab6bbf123ee8b4cb4a5777335c69f7))
+- Merge branch 'main' of github.com:anbraten/test-ready-release-go ([482be42](https://github.com/anbraten/test-ready-release-go/commit/482be42537c3c05550cdb39bc73ba0fb321ec32b))
+- test ([98eaa35](https://github.com/anbraten/test-ready-release-go/commit/98eaa356a0416405e5b0c3f27fff0c7ef756a938))
+- update config ([b3ebbe0](https://github.com/anbraten/test-ready-release-go/commit/b3ebbe007e4810277b6900c037be3e5d3c010b2c))
+- Create CHANGELOG.md ([bdd428b](https://github.com/anbraten/test-ready-release-go/commit/bdd428b746b6313acba402e04ed33c036725099f))
+- update release-config.ts ([d4e4b70](https://github.com/anbraten/test-ready-release-go/commit/d4e4b70ef39830d5fb91ec8af8d8dfbed4bd24ce))
+- adjust config ([34b3d2d](https://github.com/anbraten/test-ready-release-go/commit/34b3d2dc9773b7219e720facdc2f7da2b0444c89))
+- Update release-config.ts ([9e2c2bc](https://github.com/anbraten/test-ready-release-go/commit/9e2c2bc9febc8231f5513a997651253e34a64b4b))
+- quiet wget ([e460c59](https://github.com/anbraten/test-ready-release-go/commit/e460c5905ce9bd249f5e09e2594940a72a558ec4))
+- :letter: ([0cfd2e3](https://github.com/anbraten/test-ready-release-go/commit/0cfd2e34bdb4e55acee2af209169cbe095191e57))
+- reset changelog ([36bcec5](https://github.com/anbraten/test-ready-release-go/commit/36bcec58657d24c28287a5bc6691762d0ee47471))
+- :tiger: ([803eb08](https://github.com/anbraten/test-ready-release-go/commit/803eb089bf6be1a5f680d0dfa9a15f308a16a8db))
+- Merge nice ([435fe3a](https://github.com/anbraten/test-ready-release-go/commit/435fe3a6b4f1bc436d6379693fd935191e5679b5))
+- :tada: ([022e8d1](https://github.com/anbraten/test-ready-release-go/commit/022e8d167fe9349d6bc0ec1d05474c894e3b1cff))
+- Merge branch 'next-release/1.0.0' of github.com:anbraten/test-ready-release-go into next-release/1.0.0 ([63f0778](https://github.com/anbraten/test-ready-release-go/commit/63f077831beac40e229bc40775dc78e3315f2b83))
+- Merge remote-tracking branch 'origin/main' into next-release/1.0.0 ([393f23c](https://github.com/anbraten/test-ready-release-go/commit/393f23c79d978dd78cf7d8dc3f290ef47d17e837))
+- Merge branch 'next-release/1.0.0' of https://github.com/anbraten/test-ready-release-go into next-release/1.0.0 ([1793761](https://github.com/anbraten/test-ready-release-go/commit/179376149cfbbe941b3be6aa037bc28693dc2752))
+- :chicken: ([0bbc9de](https://github.com/anbraten/test-ready-release-go/commit/0bbc9de7473194e457229a33f930f92ad5a0c9e9))
+- "Release 1.0.0" ([a1c6c51](https://github.com/anbraten/test-ready-release-go/commit/a1c6c510b3ade0b86985f0e231ee99253cf54677))
+- "Release 1.0.0" ([fb4a95d](https://github.com/anbraten/test-ready-release-go/commit/fb4a95d7ae1dad0a6fc8a8fe2ae3f97387ad9c89))
+- "Release 1.0.0" ([e15ea73](https://github.com/anbraten/test-ready-release-go/commit/e15ea73695b3e53141de88fccb7b4dc75070daf7))
+- Merge branch 'next-release/1.0.0' of https://github.com/anbraten/test-ready-release-go into next-release/1.0.0 ([6244f9c](https://github.com/anbraten/test-ready-release-go/commit/6244f9c374185a7bb2bbdab25a67fa2d07a173ad))
+- :shark: ([82b20a6](https://github.com/anbraten/test-ready-release-go/commit/82b20a6b8e6dec564d410cb2e09670f390662056))
+- :cat: [[#2](https://github.com/anbraten/test-ready-release-go/pull/2)]
+- :cat: [[#2](https://github.com/anbraten/test-ready-release-go/pull/2)]
+- "Release 1.0.0" ([9ae4cd1](https://github.com/anbraten/test-ready-release-go/commit/9ae4cd1fc24ee4af8c93bc55981675ee6acb7ae9))
+- :dog: ([d74d6b6](https://github.com/anbraten/test-ready-release-go/commit/d74d6b660bb1a6993f6257809a57586a3d23d3aa))
+- :snake: ([883ecdb](https://github.com/anbraten/test-ready-release-go/commit/883ecdb939cc8c5d3fe5ca559787551eb9217b98))
+- :rocket: ([d061155](https://github.com/anbraten/test-ready-release-go/commit/d0611556ddd3912c8e5a1df9f18901022a16f989))
+- "Release 1.0.0" ([55c6e5f](https://github.com/anbraten/test-ready-release-go/commit/55c6e5f5c54f06d3e6525739d8e81b7aad2c7e5a))
+- :rocket: ([13c3715](https://github.com/anbraten/test-ready-release-go/commit/13c37157af66d2d54fb06c5abb569ac0af4e5ce7))
+- :tada: ([5549e6c](https://github.com/anbraten/test-ready-release-go/commit/5549e6c014159d81130e4644a8728a44eb08316e))
+- "Release 1.0.0" ([3fd5af1](https://github.com/anbraten/test-ready-release-go/commit/3fd5af1ddeb9fe21b23ce503ad0cc8d15f5bcaa3))
+- "Release 1.0.0" ([0133410](https://github.com/anbraten/test-ready-release-go/commit/01334105f2beee9ee0979c281172b590c4b26a2a))
