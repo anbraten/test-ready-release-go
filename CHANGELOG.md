@@ -14,8 +14,21 @@
 
 - Awesome change: 2023-07-10-11-40-01 [#28](https://github.com/woodpecker-ci/woodpecker/pull/28) ([06bf4bf6229054f58f9114335151418926c7c9bc](https://github.com/woodpecker-ci/woodpecker/commit/06bf4bf6229054f58f9114335151418926c7c9bc))
 
+### 🐛 Bug Fixes
+
+- Awesome change: 2023-07-11-12-59-44 [#42](https://github.com/woodpecker-ci/woodpecker/pull/42) ([2ab17108da46daa00c000c338c717f3a704e01c1](https://github.com/woodpecker-ci/woodpecker/commit/2ab17108da46daa00c000c338c717f3a704e01c1))
+- Awesome change: 2023-07-10-11-34-48 [#26](https://github.com/woodpecker-ci/woodpecker/pull/26) ([106faef4507a77cba2db5e8971f90d4525e7a7b3](https://github.com/woodpecker-ci/woodpecker/commit/106faef4507a77cba2db5e8971f90d4525e7a7b3))
+
+### 📈 Enhancement
+
+- Awesome change: 2023-07-10-11-42-58 [#29](https://github.com/woodpecker-ci/woodpecker/pull/29) ([e0dd5f2bae8981ced81e8d5b6fc827e79e23db3d](https://github.com/woodpecker-ci/woodpecker/commit/e0dd5f2bae8981ced81e8d5b6fc827e79e23db3d))
+- Awesome change: 2023-07-10-11-27-55 [#25](https://github.com/woodpecker-ci/woodpecker/pull/25) ([e7949bd1811502611baa4d5bccf410f881c84d7f](https://github.com/woodpecker-ci/woodpecker/commit/e7949bd1811502611baa4d5bccf410f881c84d7f))
+- Awesome change: 2023-07-10-11-12-09 [#23](https://github.com/woodpecker-ci/woodpecker/pull/23) ([1aa7cc8df033210f28ddac95ac4aec73f879ed83](https://github.com/woodpecker-ci/woodpecker/commit/1aa7cc8df033210f28ddac95ac4aec73f879ed83))
+- Awesome change: 2023-07-10-10-44-57 [#22](https://github.com/woodpecker-ci/woodpecker/pull/22) ([385c1d2e445f3797e3b69e4f9dc39e5c8dc2c8c9](https://github.com/woodpecker-ci/woodpecker/commit/385c1d2e445f3797e3b69e4f9dc39e5c8dc2c8c9))
+
 ### Misc
 
+- Awesome change: 2023-07-11-14-31-29 [#50](https://github.com/woodpecker-ci/woodpecker/pull/50) ([893940144a4a979063def67ca50be80b1deb3c24](https://github.com/woodpecker-ci/woodpecker/commit/893940144a4a979063def67ca50be80b1deb3c24))
 - Awesome change: 2023-07-11-14-22-51 [#49](https://github.com/woodpecker-ci/woodpecker/pull/49) ([af960261e251369afcd184e8730a0e9a6bebbad7](https://github.com/woodpecker-ci/woodpecker/commit/af960261e251369afcd184e8730a0e9a6bebbad7))
 - Awesome change: 2023-07-11-14-20-27 [#48](https://github.com/woodpecker-ci/woodpecker/pull/48) ([0051856f8d3ebd21ccfae82dd66c6e179567fa00](https://github.com/woodpecker-ci/woodpecker/commit/0051856f8d3ebd21ccfae82dd66c6e179567fa00))
 - Awesome change: 2023-07-11-14-12-13 [#46](https://github.com/woodpecker-ci/woodpecker/pull/46) ([dc0177be2da0b21e8ada6055d0df228ada109f31](https://github.com/woodpecker-ci/woodpecker/commit/dc0177be2da0b21e8ada6055d0df228ada109f31))
@@ -50,15 +63,3 @@
 - Awesome change: 2023-07-10-09-27-54 [#7](https://github.com/woodpecker-ci/woodpecker/pull/7) ([d781fa542df922d22550fd92c1bb9b1ebcaaa489](https://github.com/woodpecker-ci/woodpecker/commit/d781fa542df922d22550fd92c1bb9b1ebcaaa489))
 - improve helper ([70aeedea67c3fd927d1e2d8be83344b4510e59c4](https://github.com/woodpecker-ci/woodpecker/commit/70aeedea67c3fd927d1e2d8be83344b4510e59c4))
 - add pr helper ([39cd5b1521880d5e1a573dc6df211e0c5ce05b04](https://github.com/woodpecker-ci/woodpecker/commit/39cd5b1521880d5e1a573dc6df211e0c5ce05b04))
-
-### 🐛 Bug Fixes
-
-- Awesome change: 2023-07-11-12-59-44 [#42](https://github.com/woodpecker-ci/woodpecker/pull/42) ([2ab17108da46daa00c000c338c717f3a704e01c1](https://github.com/woodpecker-ci/woodpecker/commit/2ab17108da46daa00c000c338c717f3a704e01c1))
-- Awesome change: 2023-07-10-11-34-48 [#26](https://github.com/woodpecker-ci/woodpecker/pull/26) ([106faef4507a77cba2db5e8971f90d4525e7a7b3](https://github.com/woodpecker-ci/woodpecker/commit/106faef4507a77cba2db5e8971f90d4525e7a7b3))
-
-### 📈 Enhancement
-
-- Awesome change: 2023-07-10-11-42-58 [#29](https://github.com/woodpecker-ci/woodpecker/pull/29) ([e0dd5f2bae8981ced81e8d5b6fc827e79e23db3d](https://github.com/woodpecker-ci/woodpecker/commit/e0dd5f2bae8981ced81e8d5b6fc827e79e23db3d))
-- Awesome change: 2023-07-10-11-27-55 [#25](https://github.com/woodpecker-ci/woodpecker/pull/25) ([e7949bd1811502611baa4d5bccf410f881c84d7f](https://github.com/woodpecker-ci/woodpecker/commit/e7949bd1811502611baa4d5bccf410f881c84d7f))
-- Awesome change: 2023-07-10-11-12-09 [#23](https://github.com/woodpecker-ci/woodpecker/pull/23) ([1aa7cc8df033210f28ddac95ac4aec73f879ed83](https://github.com/woodpecker-ci/woodpecker/commit/1aa7cc8df033210f28ddac95ac4aec73f879ed83))
-- Awesome change: 2023-07-10-10-44-57 [#22](https://github.com/woodpecker-ci/woodpecker/pull/22) ([385c1d2e445f3797e3b69e4f9dc39e5c8dc2c8c9](https://github.com/woodpecker-ci/woodpecker/commit/385c1d2e445f3797e3b69e4f9dc39e5c8dc2c8c9))
