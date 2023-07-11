@@ -4,6 +4,53 @@
 
 ### Misc
 
+- Awesome change: 2023-07-11-12-59-44 [#42](https://github.com/woodpecker-ci/woodpecker/pull/42) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-13-13-52 [#44](https://github.com/woodpecker-ci/woodpecker/pull/44) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-13-09-12 [#43](https://github.com/woodpecker-ci/woodpecker/pull/43) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-12-57-11 [#41](https://github.com/woodpecker-ci/woodpecker/pull/41) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-12-27-43 [#40](https://github.com/woodpecker-ci/woodpecker/pull/40) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-09-04-57 [#39](https://github.com/woodpecker-ci/woodpecker/pull/39) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-07-36-38 [#38](https://github.com/woodpecker-ci/woodpecker/pull/38) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-11-07-30-30 [#37](https://github.com/woodpecker-ci/woodpecker/pull/37) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-14-18-25 [#36](https://github.com/woodpecker-ci/woodpecker/pull/36) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-12-19-32 [#35](https://github.com/woodpecker-ci/woodpecker/pull/35) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-12-15-48 [#34](https://github.com/woodpecker-ci/woodpecker/pull/34) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-12-10-15 [#33](https://github.com/woodpecker-ci/woodpecker/pull/33) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-54-18 [#32](https://github.com/woodpecker-ci/woodpecker/pull/32) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-52-41 [#31](https://github.com/woodpecker-ci/woodpecker/pull/31) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-49-18 [#30](https://github.com/woodpecker-ci/woodpecker/pull/30) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-42-58 [#29](https://github.com/woodpecker-ci/woodpecker/pull/29) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-40-01 [#28](https://github.com/woodpecker-ci/woodpecker/pull/28) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-38-26 [#27](https://github.com/woodpecker-ci/woodpecker/pull/27) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-34-48 [#26](https://github.com/woodpecker-ci/woodpecker/pull/26) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-27-55 [#25](https://github.com/woodpecker-ci/woodpecker/pull/25) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-22-38 [#24](https://github.com/woodpecker-ci/woodpecker/pull/24) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-11-12-09 [#23](https://github.com/woodpecker-ci/woodpecker/pull/23) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-44-57 [#22](https://github.com/woodpecker-ci/woodpecker/pull/22) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-42-37 [#21](https://github.com/woodpecker-ci/woodpecker/pull/21) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-39-42 [#20](https://github.com/woodpecker-ci/woodpecker/pull/20) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-26-57 [#19](https://github.com/woodpecker-ci/woodpecker/pull/19) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-21-28 [#18](https://github.com/woodpecker-ci/woodpecker/pull/18) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-18-41 [#16](https://github.com/woodpecker-ci/woodpecker/pull/16) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-10-07-08 [#15](https://github.com/woodpecker-ci/woodpecker/pull/15) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-45-45 [#14](https://github.com/woodpecker-ci/woodpecker/pull/14) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-43-41 [#13](https://github.com/woodpecker-ci/woodpecker/pull/13) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-40-37 [#12](https://github.com/woodpecker-ci/woodpecker/pull/12) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-36-37 [#11](https://github.com/woodpecker-ci/woodpecker/pull/11) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- adjust config ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-29-39 [#10](https://github.com/woodpecker-ci/woodpecker/pull/10) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-29-26 [#9](https://github.com/woodpecker-ci/woodpecker/pull/9) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- improve helper again ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- Awesome change: 2023-07-10-09-27-54 [#7](https://github.com/woodpecker-ci/woodpecker/pull/7) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- improve helper ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+- add pr helper ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
+
+# Changelog
+
+## [0.0.2](https://github.com/woodpecker-ci/woodpecker/releases/tag/0.0.2) - 2023-07-11
+
+### Misc
+
 - Awesome change: 2023-07-11-13-13-52 [#44](https://github.com/woodpecker-ci/woodpecker/pull/44) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
 - Awesome change: 2023-07-11-13-09-12 [#43](https://github.com/woodpecker-ci/woodpecker/pull/43) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
 - Awesome change: 2023-07-11-12-57-11 [#41](https://github.com/woodpecker-ci/woodpecker/pull/41) ([undefined](https://github.com/woodpecker-ci/woodpecker/commit/undefined))
