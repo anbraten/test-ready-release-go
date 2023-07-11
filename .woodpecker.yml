@@ -1,0 +1,14 @@
+pipeline:
+  release:
+    image: anbraten/plugin-ready-release-go
+    pull: true
+    settings:
+      release_branch: main
+      forge_type: github
+      git_email: owners@woodpecker-ci.org
+      github_token:
+        from_secret: GITHUB_TOKEN
+
+when:
+  event: push
+  branch: main
