@@ -370,7 +370,7 @@
   * Return after error (#1875) (#1876)
   * Update github.com/docker/distribution (#175
 
-## [1.0.0](https://github.com/anbraten/test-ready-release-go/releases/tag/1.0.0) - 2023-07-11
+## [1.0.0](https://github.com/anbraten/test-ready-release-go/releases/tag/1.0.0) - 2023-07-21
 
 ### 💥 Breaking changes
 
