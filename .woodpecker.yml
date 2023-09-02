@@ -1,4 +1,11 @@
-pipeline:
+steps:
+  test:
+    image: alpine
+    commands:
+      - echo "Hello, World!"
+      - pwd
+      - cd
+      - pwd
   release:
     image: woodpeckerci/plugin-ready-release-go
     pull: true
