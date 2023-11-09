@@ -7,7 +7,7 @@ steps:
       - cd
       - pwd
   release:
-    image: woodpeckerci/plugin-ready-release-go
+    image: anbraten/plugin-ready-release-go
     pull: true
     settings:
       release_branch: main
