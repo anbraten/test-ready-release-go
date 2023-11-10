@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.0.1](https://github.com/anbraten/test-ready-release-go/releases/tag/1.0.1) - 2023-11-10
+
+### ❤️ Thanks to all contributors! ❤️
+
+@anbraten
+
+### Misc
+
+- Update .ecrc [[#58](https://github.com/anbraten/test-ready-release-go/pull/58)]
+
 ## [1.0.0-rc.0](https://github.com/anbraten/test-ready-release-go/releases/tag/1.0.0-rc.0) - 2023-11-09
 
 ### ❤️ Thanks to all contributors! ❤️
